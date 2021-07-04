@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    font-family: "Montserrat-Bold";
+}
+#title{
+    background-color: #ff4c68;
+    color: white;
+}
+h1{
+    font-family: "Montserrat-Bold";
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.navbar{
+    padding: 0rem 0rem 4.5rem 0rem;
+}
+.navbar-brand{
+    font-family: "ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0px 18px;
+}
+.nav-link{
+    font-size: 1.5rem;
+}
+.download-button{
+    margin: 3rem auto;
+}
+.title-image{
+    width: 120%;
+    transform: rotate(25deg);
+}
+#features{
+    margin: 0rem auto;
+    padding: 2rem;
+    text-align: center;
+}
+.feature-box{
+    padding: 5%;
+}
+h3{
+    font-weight: bold;
+    margin-top: 1rem;
+}
+p{
+    color: #888484;
+}
+
+.icon{
+    color: #ef8172;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+#testimonials{
+    margin-bottom: 0rem;
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+}
+h2{
+    padding: 0 4rem;
+    color: white;
+    font-size: 3rem;
+}
+.testimonial-image{
+    margin: 4rem 4rem 0 4rem;
+    width: 20%;
+    border-radius: 10rem;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding: 1rem;
+}
+.press-image{
+    width: 15%;
+    padding: 2%;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
